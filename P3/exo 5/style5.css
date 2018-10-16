@@ -1,0 +1,10 @@
+body {
+  background-color: Black;
+  color: Green;
+}
+#block {
+  position: absolute;
+  Background-color: Green;
+  Width: 20px;
+  height: 20px;
+}
